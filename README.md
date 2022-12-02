@@ -7,7 +7,6 @@
 
 ### :books: 사용 언어
 * Processing.js
-* arduino.ino
 
 ### :calling:&nbsp;&nbsp;Contact me!
 poetdeveloper.iro@gmail.com OR bkksg.studio@gmail.com
